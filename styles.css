@@ -60,7 +60,7 @@ nav ul li a {
 }
 
 .home {
-    background: linear-gradient(rgba(39, 96, 147, 0.5), rgba(56, 105, 103, 0.5)), url('images/background.png') no-repeat center center/cover;
+    background: linear-gradient(rgba(39, 96, 147, 0.5), rgba(56, 105, 103, 0.5)), url('https://en.idei.club/uploads/posts/2023-06/thumbs/1686013351_en-idei-club-p-building-construction-background-dizain-in-75.jpg') no-repeat center center/cover;
     display: flex;
     height: 750px;
     justify-content: center;
@@ -75,6 +75,8 @@ nav ul li a {
     text-decoration: underline;
     text-decoration-color: #2a5db0a5;
     text-underline-offset: 4px;
+    font-weight: none !important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 .hero p {
